@@ -1,1 +1,1 @@
-local VALID_KEY = "saturn"
+getgenv().VALID_KEY = "saturn" -- update this
