@@ -1,4 +1,4 @@
-getgenv().PART_DICTIONARY = {
+return {
 	["2M Likes Starfruit First Star"] = 1,
 	["2M Likes Starfruit Leaf"] = 2,
 	["2M Likes Starfruit Second Star"] = 3,
